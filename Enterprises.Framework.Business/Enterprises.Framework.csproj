@@ -201,6 +201,7 @@
     <Compile Include="Logging\LogSeverity.cs" />
     <Compile Include="Net\IWebHelper.cs" />
     <Compile Include="Net\WebHelper.cs" />
+    <Compile Include="Plugin\Encryption\CryptoService.cs" />
     <Compile Include="Threading\AbpTimer.cs" />
     <Compile Include="Threading\AsyncHelper.cs" />
     <Compile Include="Threading\BackgroundWorkerBase.cs" />
